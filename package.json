@@ -3,7 +3,11 @@
   "version": "1.0.0",
   "description": "Implement listviews with item grouping and ordering",
   "main": "backbone.grouped-collection.js",
-  "dependencies": {},
+  "dependencies": {
+    "backbone": "^1.2.0",
+    "backbone-virtual-collection": "^0.6.11",
+    "underscore": "^1.8.0"
+  },
   "devDependencies": {
     "chai": "^3.5.0",
     "mocha": "^2.4.5"
