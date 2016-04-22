@@ -1,0 +1,16 @@
+{
+  "name": "backbone-grouped-collection",
+  "version": "1.0.0",
+  "description": "Implement listviews with item grouping and ordering",
+  "main": "backbone.grouped-collection.js",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "MIT"
+}
